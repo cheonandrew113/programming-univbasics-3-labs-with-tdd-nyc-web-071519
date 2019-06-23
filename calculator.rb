@@ -1,7 +1,7 @@
 # Add your variables here
 
-def first_number > 0
-def second_number >= 0
+def first_number = 9
+def second_number = 3
   
   sum = first_number + second_number
   difference = first_number - second_number
