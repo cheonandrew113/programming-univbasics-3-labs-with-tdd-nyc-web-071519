@@ -3,7 +3,7 @@
 def first_number > 0
 def second_number >= 0
   
-  first_number + second_number
-  
+  sum = first_number + second_number
+  difference = first_number - second_number
 end
 end
